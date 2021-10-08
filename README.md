@@ -1,8 +1,9 @@
-<!--- 👋 Hi, I’m @SeraWi
-- 👀 I’m interested in java, Spring, Springboot
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --!>
+- 👋 Hi, I’m @SeraWi
+- 👀 I’m interested in Web, Data Science, Data Analysis
+- 🌱 I’m currently learning Java, SpringFramework
+- 📫 How to reach me wsr2357@naver.com
+<!--- 💞️ I’m looking to collaborate on ...--!>
+
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
