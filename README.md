@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SeraWi
-- 👀 I’m interested in Web, Data Science, Data Analysis
 - 🌱 I’m currently learning Java, SpringFramework
 - 📫 How to reach me wsr2357@naver.com
 <!--- 💞️ I’m looking to collaborate on ...--!>
